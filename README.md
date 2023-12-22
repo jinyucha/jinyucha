@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jinyucha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![header](https://capsule-render.vercel.app/api?type=slice&color=40AEF0&height=300&section=header&text=MyGitHub&fontSize=90)
 
-<!---
-jinyucha/jinyucha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💙 ⚽⚾🏸🏎
+- 🤍 🐶
+- ❤ 
